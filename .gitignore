@@ -1,0 +1,33 @@
+# PowerShell
+*.ps1xml
+*.psc1
+*.psd1
+*.psm1
+*.pst
+.PSScriptRoot
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+.vs/
+
+# Logs
+*.log
+logs/
+
+# Build
+bin/
+obj/
+dist/
+build/
+
+# Misc
+.env
+.env.local
+secrets.json
